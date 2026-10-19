@@ -1,0 +1,10 @@
+[project]
+name = "subburn"
+version = "1.0.0"
+description = "Burn subtitles into video (hardsub) or mux as a subtitle track (softsub)"
+readme = "README.md"
+requires-python = ">=3.8"
+license = { text = "MIT" }
+
+[project.scripts]
+subburn = "subburn:main"

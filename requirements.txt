@@ -1,0 +1,5 @@
+# No Python dependencies required.
+# subburn is pure standard library: it shells out to the system ffmpeg binary.
+# You only need ffmpeg installed (see README.md for install instructions).
+
+# (intentionally empty)
